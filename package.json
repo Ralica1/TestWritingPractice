@@ -1,0 +1,22 @@
+{
+  "name": "testwritingpractice",
+  "version": "1.0.0",
+  "description": "Test writing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ralica1/TestWritingPractice.git"
+  },
+  "author": "Ralica1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ralica1/TestWritingPractice/issues"
+  },
+  "homepage": "https://github.com/Ralica1/TestWritingPractice#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
