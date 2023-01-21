@@ -28,8 +28,11 @@ describe('caesarCipher', () => {
     test('function should handle punctuation', () => {
         const string = 'Hello, World!';
         const shift = 2;
-        const expected = 'Jgqqo, Yqtnf!';
+        const expected = 'Jgnnq, Yqtnf!';
         const result = caesarCipher(string, shift);
         expect(result).toBe(expected);
     });
 });
+
+
+
